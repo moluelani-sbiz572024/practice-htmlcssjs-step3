@@ -71,6 +71,10 @@
 
 ### 提供ソースコード
 
+sample.app.js
+
 ![sample.app.js](/assets/step3-03.png)
+
+samole.lib.js
 
 ![sample.lib.js](/assets/step3-04.png)
