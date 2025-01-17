@@ -76,5 +76,6 @@ sample.app.js
 ![sample.app.js](/assets/step3-03.png)
 
 samole.lib.js
+- オブジェクト MessageArea、Utilの内容はコード確認して下さい
 
 ![sample.lib.js](/assets/step3-04.png)
